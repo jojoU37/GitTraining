@@ -8,4 +8,5 @@ Adding some text here
 ### Contributors
 
 Adding some contributors
-New contributors
+*New contributors
+* New2
